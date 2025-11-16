@@ -2,6 +2,15 @@
 
 ## Project Overview
 This Road Accident Analysis Dashboard is built entirely in Microsoft Excel to analyze accident patterns, casualty severity, risk factors, and environmental conditions. Interactive charts and slicers help convert raw records into meaningful insights for safety decisions, planning, and reporting.
+## 📄 Report Summary
+
+This report provides a consolidated analysis of road accident data to highlight key risk patterns and safety insights. Car and motorbike accidents contribute to the highest casualties, with rural areas showing more severe outcomes due to higher speeds and slower emergency response.
+
+Visibility plays a major role—accidents in darkness often result in more serious or fatal injuries. Seasonal trends show noticeable spikes in specific months, while road surface conditions such as wet or icy roads increase incident likelihood.
+
+Single carriageways show a higher share of casualties, indicating infrastructure-related risks. Weather factors like fog and rain further elevate accident severity.
+
+Overall, this dashboard supports informed decision-making for transport departments, safety planners, and policy creators by clearly identifying where and why accidents occur, enabling targeted prevention strategies.
 
 ## Dashboard Preview
 <img width="1041" height="503" alt="Screenshot 2025-11-16 121105" src="https://github.com/user-attachments/assets/8bbdbc7f-33d6-4679-8bf8-c7a946c112fa" />
